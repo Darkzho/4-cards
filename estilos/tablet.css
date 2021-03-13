@@ -21,7 +21,7 @@
     display: grid;
     height: 100%;
     width: 100%;
-    grid-template-columns: repeat(3, minmax(320px, 380px));
+    grid-template-columns: repeat(3, minmax(300px, 380px));
     grid-template-rows: repeat(2, 1fr);
     position: relative;
     justify-content: center;
